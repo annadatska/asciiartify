@@ -33,7 +33,8 @@ AsciiArtify is a startup dedicated to creating a new software product that uses 
 ## Demonstration
 k3d  Deployment of "Hello World" Application on Kubernetes  
 
-![Application on Kubernetes](./demo.gif)  
+![Application on Kubernetes](./demo.gif)
+[Link to demo video](https://asciinema.org/a/2JWQ7X6wv8zlZOkB2GEUu8ZBS)
 
 
 ## Conclusion
