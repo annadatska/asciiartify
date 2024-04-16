@@ -5,7 +5,9 @@ A deployment whose current state differs from the target is considered `out of s
 ArgoCD informs and visualizes the differences, providing opportunities for automatic or manual synchronization of the desired state.
 
 `Goal`: To prove the viability of the idea and concept of using ArgpCD as a CD tool. We'll prove that it's technically possible to implement the idea.
+
 [Link to step-by-step demo video](https://drive.google.com/file/d/13mkXIxbJBYPvNcWQBGJgv2Fxh6W_0BXl/view?usp=sharing)
+
 1. Prepare and set up a separate local cluster for ArgoCD installation:
 ```bash
 $ k3d cluster create argo
